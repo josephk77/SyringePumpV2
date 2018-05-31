@@ -6,7 +6,7 @@
 // Set serial baud rate to 57600 and terminate commands with newlines.
 // Send a number, e.g. "100", to set bolus size.
 // Send a "+" to push that size bolus.
-// Send a "-" to pull that size bolus. 
+// Send a "-" to pull that size bolus. test
 #include <Keyboard.h>
 #include <LiquidCrystal.h>
 #include <string.h>
